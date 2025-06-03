@@ -23,3 +23,9 @@ A deep learning-based AI model built using TensorFlow and Keras to detect and cl
 - Matplotlib (for visualizations)
 
 ---
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/5.32.0/gradio.js"
+></script>
+
+<gradio-app src="https://ghimireplan-ai.hf.space"></gradio-app>
