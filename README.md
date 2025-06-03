@@ -24,4 +24,4 @@ A deep learning-based AI model built using TensorFlow and Keras to detect and cl
 
 ---
 
-<gradio-app src="https://ghimireplan-ai.hf.space"></gradio-app>](https://github.com/user-attachments/assets/574e28c4-bc6c-46a5-97ba-4116ac9fb4bc)
+[![Watch Demo](https://github.com/user-attachments/assets/574e28c4-bc6c-46a5-97ba-4116ac9fb4bc)](https://ghimireplan-ai.hf.space)
